@@ -17,7 +17,7 @@ A sphere surrounds the user and is textured with frames from an equirectangular 
 
 ## Follow us
 
-We are on twitter: [@visuall](http://twitter.com/visuallinteract).
+We are on twitter: [@visuallinteract](http://twitter.com/visuallinteract).
 
 Follow us for all news related to our work on 360° videos and virtual tours. Visu'all Interactive is the R&D branch of Concept Immo Global, a Paris-based startup.
 
